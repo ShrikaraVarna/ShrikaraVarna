@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+I am **B Shrikara Varna**. I'm a 3rd year **B.E** student at **BMS College of Engineering**. My main interest lies in Machine Learning/Deep Learning and NLP. Have worked on various ML models while learning to get a hands-on experience. I am also interested in Mobile App Development and have worked on Android Studio and Flutter. 
 
 <!--
 **ShrikaraVarna/ShrikaraVarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
