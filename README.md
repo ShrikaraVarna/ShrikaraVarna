@@ -8,8 +8,9 @@ I am **B Shrikara Varna**. I'm a 3rd year **B.E** student at **BMS College of En
 * I'm looking to collaborate on any project involving ML model building, training and testing and Mobile App Development on Flutter.
 * Ask me about Web SCrapping, ML and App Development.
 
-This is the link to my [LinkedIn Profile](https://www.linkedin.com/in/shrikara-b-varna-963592192/)
-Can contact me via my email *bshrikara.is18@bmsce.ac.in*
+This is the link to my [LinkedIn Profile](https://www.linkedin.com/in/shrikara-b-varna-963592192/).
+
+Can contact me via my email *bshrikara.is18@bmsce.ac.in*.
 
 Looking forward to contibrute on open source projects :innocent:
 <!--
