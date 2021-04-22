@@ -7,7 +7,7 @@ I am **B Shrikara Varna**. I'm a 3rd year **B.E** student at **BMS College of En
 * I'm currently learning best practices and few of ML models.
 *  👯 I’m looking to collaborate on open source projects involving **NLP** and **building libraries for programming languages (C++)**.
 * I'm looking to collaborate on any project involving ML model building, training and testing.
-* Ask me about Web SCrapping and ML.
+* Ask me about Web Scrapping and ML.
 
 This is the link to my [LinkedIn Profile](https://www.linkedin.com/in/shrikara-b-varna-963592192/).
 
