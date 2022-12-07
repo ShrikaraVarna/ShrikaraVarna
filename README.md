@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **B Shrikara Varna**. I'm a final year **B.E** student at **BMS College of Engineering**. My main interest lies in Machine Learning/Deep Learning and NLP. Have worked on various ML models while learning to get a hands-on experience.
+I am **B Shrikara Varna**. I'm a **B.E** graduate from **BMS College of Engineering**. My main interest lies in Machine Learning/Deep Learning and NLP. Have worked on various ML models while learning to get a hands-on experience.
 
 
 * I'm currently learning best practices and the theory behind the models of ML.
@@ -12,7 +12,7 @@ I am **B Shrikara Varna**. I'm a final year **B.E** student at **BMS College of 
 
 This is the link to my [LinkedIn Profile](https://www.linkedin.com/in/shrikara-b-varna/).
 
-Can contact me via my email *bshrikara.is18@bmsce.ac.in*.
+Can contact me via my email *varnashrikarab@gmail.com*.
 
 Looking forward to contibrute on open source projects :innocent:
 <!--
