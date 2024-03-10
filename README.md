@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Shrikara B Varna**. I'm a **B.E** graduate from **BMS College of Engineering**. My main interest lies in Machine Learning/Deep Learning and NLP. Have worked on various ML models while learning to get hands-on experience.
+I am **Shrikara B Varna**. I'm a graduate student from **Carnegie Mellon University**, pursuing my Masters in Intelligent Information Systems (ML and NLP) from the LTI department of SCS. My main interest lies in Machine Learning/Deep Learning and NLP. Have worked on various ML models while learning to get hands-on experience. My current research is in the field of Multimodal ML and am working on creating a video summarizer.
 
 
 * I'm currently learning best practices and the theory behind the models of ML.
